@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/html-css-course-master/starter/02-HTML-Fundamentals/index.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/html-css-course-master/starter/02-HTML-Fundamentals/index.html"
+    }
+  ]
+}
