@@ -1,14 +1,10 @@
 * {
-<<<<<<< HEAD
   box-sizing: border-box;
   margin: 0;
-=======
->>>>>>> eeb665adf5936b5591c1e8a24b24307244bdd7e4
   padding: 0;
 }
 
 body {
-<<<<<<< HEAD
   font-family: sans-serif;
   color: #444;
   border-top: 10px solid #1098ad;
@@ -45,8 +41,6 @@ h3,
 h4,
 p,
 li {
-=======
->>>>>>> eeb665adf5936b5591c1e8a24b24307244bdd7e4
   font-family: sans-serif;
   color: #444;
   border-top: solid 10px #1098ad;
